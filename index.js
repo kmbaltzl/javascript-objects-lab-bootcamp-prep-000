@@ -1,2 +1,2 @@
-var Objects = {typeof: 'recipes'}
+var recipes = {typeof: 'object'}
 
