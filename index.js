@@ -1,2 +1,2 @@
-var recipes = Object.assign({}, obj)
+var Objects = {typeof: 'recipes'}
 
